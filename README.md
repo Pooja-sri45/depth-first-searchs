@@ -112,7 +112,8 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 
-<img width="772" height="263" alt="Screenshot 2025-09-08 091811" src="https://github.com/user-attachments/assets/4560b2ad-9b3a-474c-8eeb-cf64ffd0255e" />
+<img width="528" height="267" alt="image" src="https://github.com/user-attachments/assets/da6cc334-00f7-42b5-8622-c3d76255c4fa" />
+
 
 
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
@@ -133,7 +134,8 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 
-<img width="502" height="169" alt="Screenshot 2025-09-08 091821" src="https://github.com/user-attachments/assets/db5bff4c-b88b-495f-b720-53074ca89896" />
+<img width="674" height="179" alt="image" src="https://github.com/user-attachments/assets/02c98fa4-416d-4072-8010-e0e66bf68664" />
+
 
 
 ['0', '1', '2', '3', '4']
