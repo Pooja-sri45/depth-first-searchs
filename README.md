@@ -115,7 +115,6 @@ F H <BR>
 <img width="528" height="267" alt="image" src="https://github.com/user-attachments/assets/da6cc334-00f7-42b5-8622-c3d76255c4fa" />
 
 
-
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 <hr>
 
@@ -135,7 +134,6 @@ F H <BR>
 <hr>
 
 <img width="674" height="179" alt="image" src="https://github.com/user-attachments/assets/02c98fa4-416d-4072-8010-e0e66bf68664" />
-
 
 
 ['0', '1', '2', '3', '4']
